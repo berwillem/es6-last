@@ -1,0 +1,1 @@
+import mouh from "./script.js";
